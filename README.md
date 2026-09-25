@@ -2,4 +2,4 @@
 
 This is a simple **OpenGL** project to replicate the OG Screen Saver that never hits the edges.
 
-![Uploading Recording 2026-09-24 034815.gif…]()
+![showcase](https://github.com/user-attachments/assets/fc68f697-a183-4f7f-8e7b-96125dea3beb)
